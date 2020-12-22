@@ -1324,11 +1324,10 @@ body {
           animation: top 1s var(--delay) both;
 }
 #verified{
-  position: absolute;
-  max-width: 36px;
-  max-height: 36px;
+  width: 20px;
+  height: 20px;
+  padding: 0px;
   border: none;
-  bottom: 65px;
-  right: 25px;
+  filter: hue-rotate(25deg);
 }
 /*# sourceMappingURL=main.css.map */
