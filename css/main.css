@@ -1324,8 +1324,8 @@ body {
           animation: top 1s var(--delay) both;
 }
 #verified{
-  width: 20px;
-  height: 20px;
+  width: 17px;
+  height: 17px;
   padding: 0px;
   border: none;
   filter: hue-rotate(25deg);
