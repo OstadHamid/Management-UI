@@ -1323,4 +1323,12 @@ body {
   -webkit-animation: top 1s var(--delay) both;
           animation: top 1s var(--delay) both;
 }
+#verified{
+  position: absolute;
+  max-width: 36px;
+  max-height: 36px;
+  border: none;
+  bottom: 65px;
+  right: 25px;
+}
 /*# sourceMappingURL=main.css.map */
